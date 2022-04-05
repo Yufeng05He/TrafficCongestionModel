@@ -3,7 +3,7 @@ The data file for manuscript of Processes and Events in the Centre: A taxi traje
 #############
 
 Method 1: Use our database file
-Three steps to quickly improt the experiment data:
+Three steps to quickly improt the experiment data.
   Step 1: unzip the Neo4j.zip file and import it into the Neo4j database. The unzipped Neo4j file is a database backup file that can be directly hooked up by modifying     the database name in conf.
   Step 2: After importing to Neo4j database, you can check "The profile of the database in neo4j.docx" to see if the database is imported correctly, and implement the      query according to the word file.
   Step 3: The application and reasoning of the model is detailed in the query reasoning statements provided in the paper, and the database model system provides fast       retrieval and querying.
